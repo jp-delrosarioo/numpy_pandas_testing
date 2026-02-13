@@ -1,0 +1,13 @@
+StudentID,Name,Age,Gender,Math_Score,Science_Score,Attendance_Percent
+101,John,20,M,85,90,95
+102,Alice,19,F,88,,92
+103,Bob,21,M,78,85,88
+104,Eve,,F,92,89,96
+105,Charlie,20,M,85,90,95
+101,John,20,M,85,90,95
+106,David,22,M,,76,85
+107,Sarah,19,F,91,93,
+108,Mike,21,M,73,70,80
+109,Lisa,20,F,88,84,90
+110,Anna,19,F,88,84,90
+105,Charlie,20,M,85,90,95
